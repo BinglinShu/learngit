@@ -1,1 +1,1 @@
-git new
+git new 1
